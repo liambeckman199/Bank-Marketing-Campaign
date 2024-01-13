@@ -2,8 +2,8 @@ Cleaned a bank's historical marketing data in Python to create logistic regressi
 
 The project incorporated several data science and machine learning practices:
 
-● Creating Seaborn data visualizations during data exploration.
-● Feature cleaning and engineering.
-● Over and under sampling data to handle unbalanced datasets.
-● K-folds cross validation to leverage more data for training and testing.
-● Hyperparameter tuning with grid search algorithms. 
+1. Creating Seaborn data visualizations during data exploration.
+2. Feature cleaning and engineering.
+3. Over and under sampling data to handle unbalanced datasets.
+4. K-folds cross validation to leverage more data for training and testing.
+5. Hyperparameter tuning with grid search algorithms. 
